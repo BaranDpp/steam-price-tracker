@@ -16,7 +16,7 @@ Telegram Entegrasyonu: İndirimleri anlık olarak gruba veya kişiye HTML format
 
 🛠️ Kullanılan Teknolojiler
 
-Python 3.x
+Python 3.13
 
 Requests & BeautifulSoup4
 
@@ -25,5 +25,6 @@ Telegram Bot API
 Linux (Ubuntu) & Systemd
 
 👨‍💻 Geliştirici
+
 
 Baran - Bilgisayar Mühendisi
